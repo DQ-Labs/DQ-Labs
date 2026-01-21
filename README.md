@@ -1,8 +1,9 @@
 # Hi there! 👋
 
-I am an **experienced IT professional** dabbling in the world of software development. Currently leveraging an **AI-Augmented workflow** to accelerate my learning and productivity.
+I am an **experienced IT professional** dabbling in the world of software development. My goal here is to use an 
+**AI-Augmented workflow** to accelerate my learning and productivity.
 
-My current focus is on building simple **GUIs for popular open source tools**, small bespoke apps that accomplish just what I need them to do.
+My current focus is on building simple **GUIs for popular open source tools**. Small bespoke apps that accomplish just what I need them to do.
 
 ---
 
