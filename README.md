@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I am an **experienced IT professional** dabbling in the world of software development. My goal here is to use an 
 **AI-Augmented workflow** to accelerate my learning and productivity.
